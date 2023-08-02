@@ -1,1 +1,0 @@
-# JWT_TASK_LETO_CTF
